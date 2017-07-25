@@ -1,0 +1,40 @@
+body {
+  font-family: helvetica;
+  margin: 0;
+}
+
+@media only screen and (min-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+.top-nav {
+  height: 32px;
+  background: #000;
+}
+
+.nav {
+  height: 48px;
+  background: #fff;
+}
+
+.hero {
+  height: 394px;
+  background: linear-gradient(#eeeeee, #fff)
+}
+
+.news-articles {
+  background: #fff;
+}
+
+.sections {
+  background: #fff;
+}
+
+.footer {
+  height: 506px;
+  background: #131313;
+}
